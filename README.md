@@ -1,1 +1,1 @@
-# OpenVPN
+# WireGurad
