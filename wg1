@@ -1,0 +1,12 @@
+[Interface]
+Address = 172.31.0.2/24
+ListenPort = 51820
+PrivateKey = NC6H7kredhl+ZjmlZboGPcbiIVgu0M/Rg0hDIEUDFvc=
+MTU = 1420
+DNS = 9.9.9.9
+
+[Peer]
+PublicKey = 8QWApZVlEM7oLfccr6GUsIDztdW2cxgB1CMNSgVBRTE=
+PresharedKey = W3k0rHzHjsu4+BZbS1CDmCclziAdfXKOj8A8nvoNFy4=
+AllowedIPs = 10.0.0.2/24
+Endpoint = hostname.ipv64.net:51820
